@@ -29,7 +29,7 @@
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/username/Agentic-AI-Lambda.git
+git clone https://github.com/ChaitanyaOnCloud/AgenticAi-Lambda.git
 cd Agentic-AI-Lambda
 
 ### 2. Install dependencies locally (optional)
